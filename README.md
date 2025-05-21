@@ -11,7 +11,7 @@
 
 - 📫 You guys sincerely can reach me on **gathan.ghifarirachwiyono@student.upj.ac.id**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
