@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gathan Ghifari Rachwiyono</h1>
+<h1 align="center">Hi 👋, I'm Ghifari</h1>
 <h3 align="center">I'm a passionate developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghifari-15&label=Profile%20views&color=0e75b6&style=flat" alt="ghifari-15" /> </p>
